@@ -17,6 +17,10 @@ Este projeto vai ser desenvolvido utilizando:
 ✔️ Administração de elenco e produção 👥
 ✔️ Relatórios e estatísticas para otimização de gestão 📊 
 
+## Entregas
+📸 [**Lo-fi's**](https://drive.google.com/file/d/1EMd6lf0au7WKsCR9rRodCiv2ksGIRFrV/view?usp=drive_link)
+📜 [**Histórias**](https://docs.google.com/document/d/1PzrIdtrJERcJetYCJ_r6rDhxUMrsDcpiqiyTjrJwEcs/edit?usp=drive_link)
+
 ## 👥 Colaboradores
 💡 **Fernanda Ramalho** - [@github](https://github.com/)  
 💡 **João Medeiros** - [@github](https://github.com/)  
