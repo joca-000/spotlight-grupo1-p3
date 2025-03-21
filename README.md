@@ -1,18 +1,21 @@
 # 🎭 Spotlight - Plataforma de Gerenciamento de Teatros
 
-Bem-vindo ao **Spotlight**! 🌟 Uma plataforma desenvolvida para facilitar a gestão de teatros, proporcionando organização eficiente de eventos, reservas e administração de espetáculos.
+Bem-vindo ao **Spotlight**! Uma plataforma desenvolvida para facilitar a gestão de teatros, proporcionando organização eficiente de eventos, reservas e administração de espetáculos.
 
 ## 🚀 Sobre o Projeto
 O **Spotlight** visa simplificar o gerenciamento de teatros, permitindo que administradores organizem eventos, controlem reservas de espaços e acompanhem a programação de espetáculos de maneira intuitiva e eficiente.
 
 ## 🛠 Tecnologias Utilizadas
-Este projeto está sendo desenvolvido utilizando exclusivamente **Java** ☕.
+Este projeto vai ser desenvolvido utilizando:
+- **Java ☕**
+- Frameworks: *Spring Boot*
+- Banco de Dados: *MySQL*
 
 ## 📌 Funcionalidades
-✔️ Cadastro de teatros e espaços disponíveis 🎭  
-✔️ Gerenciamento de eventos e espetáculos 📅    
-✔️ Administração de elenco e produção 👥  
-✔️ Relatórios e estatísticas para otimização de gestão 📊  
+✔️ Cadastro de teatros e espaços disponíveis  
+✔️ Gerenciamento de eventos e espetáculos    
+✔️ Administração de elenco e produção 👥
+✔️ Relatórios e estatísticas para otimização de gestão 📊 
 
 ## 👥 Colaboradores
 💡 **Fernanda Ramalho** - [@github](https://github.com/)  
