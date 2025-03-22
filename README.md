@@ -27,7 +27,7 @@ Este projeto vai ser desenvolvido utilizando:
 💡 **Fernanda Ramalho** - [@github](https://github.com/fernandaramalhob)  
 💡 **Igor Soares** - [@github](https://github.com/IgorSoaresss)  
 💡 **João de Medeiros** - [@github](https://github.com/joca-000)  
-💡 **Luis Filipe** - [@github](https://github.com/)  x
+💡 **Luis Filipe** - [@github](https://github.com/LFilipeTeles)  
 💡 **Paulo Egito** - [@github](https://github.com/)  x
 
 ## 📜 Licença
