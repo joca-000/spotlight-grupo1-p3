@@ -28,7 +28,7 @@ Este projeto vai ser desenvolvido utilizando:
 💡 **Igor Soares** - [@github](https://github.com/IgorSoaresss)  
 💡 **João de Medeiros** - [@github](https://github.com/joca-000)  
 💡 **Luis Filipe** - [@github](https://github.com/LFilipeTeles)  
-💡 **Paulo Egito** - [@github](https://github.com/)  x
+💡 **Paulo Egito** - [@github](https://github.com/pauloheis)  
 
 ## 📜 Licença
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
