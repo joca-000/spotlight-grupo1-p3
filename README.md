@@ -18,7 +18,7 @@ Este projeto vai ser desenvolvido utilizando:
 ✔️ Relatórios e estatísticas para otimização de gestão 📊 
 
 ## Entregas
-- **Entrega 1**
+- ## Entrega 1:
 📜 [**Histórias**](https://docs.google.com/document/d/1PzrIdtrJERcJetYCJ_r6rDhxUMrsDcpiqiyTjrJwEcs/edit?usp=sharing)
 📸 [**Lo-fi's**](https://drive.google.com/file/d/1EMd6lf0au7WKsCR9rRodCiv2ksGIRFrV/view?usp=drive_link)
 
