@@ -2,25 +2,54 @@ import java.util.ArrayList;
 
 public class Sistema {
     private ArrayList<Usuario> usuarios;
+    private ArrayList<Teatro> teatros;
+    private ArrayList<Funcionario> funcionarios;
 
     public Sistema() {
-        this.usuarios = new ArrayList<>();
+        usuarios = new ArrayList<>();
+        teatros = new ArrayList<>();
+        funcionarios = new ArrayList<>();
     }
 
-    public void cadastrarUsuario(String nome, String login, String senha) {
-        Usuario novoUsuario = new Usuario(nome, login, senha);
-        usuarios.add(novoUsuario);
-        System.out.println("Usuário " + nome + " cadastrado com sucesso!");
+    // Usuários
+    public boolean cadastrarUsuario(String login, String senha) {
+        for (Usuario u : usuarios) {
+            if (u.getLogin().equals(login)) {
+                return false;
+            }
+        }
+        usuarios.add(new Usuario(login, senha));
+        return true;
     }
 
     public boolean fazerLogin(String login, String senha) {
-        for (Usuario usuario : usuarios) {
-            if (usuario.getLogin().equals(login) && usuario.getSenha().equals(senha)) {
-                System.out.println("Login realizado com sucesso! Bem-vindo, " + usuario.getNome());
+        for (Usuario u : usuarios) {
+            if (u.getLogin().equals(login) && u.getSenha().equals(senha)) {
                 return true;
             }
         }
-        System.out.println("Login ou senha incorretos.");
         return false;
+    }
+
+    // Teatros
+    public void cadastrarTeatro(String nome, String localizacao, int capacidade, String descricao) {
+        teatros.add(new Teatro(nome, localizacao, capacidade, descricao));
+    }
+
+    public ArrayList<Teatro> getTeatros() {
+        return teatros;
+    }
+
+    public void deletarTeatro(Teatro teatro) {
+        teatros.remove(teatro);
+    }
+
+    // Funcionários
+    public void cadastrarFuncionario(String nome, String endereco, String dataNascimento, String rg, String cpf) {
+        funcionarios.add(new Funcionario(nome, endereco, dataNascimento, rg, cpf));
+    }
+
+    public ArrayList<Funcionario> getFuncionarios() {
+        return funcionarios;
     }
 }
