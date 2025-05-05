@@ -17,6 +17,22 @@ public class Funcionario {
         return nome;
     }
 
+    public String getEndereco() {
+        return endereco;
+    }
+
+    public String getDataNascimento() {
+        return dataNascimento;
+    }
+
+    public String getRg() {
+        return rg;
+    }
+
+    public String getCpf() {
+        return cpf;
+    }
+
     @Override
     public String toString() {
         return nome + " (CPF: " + cpf + ")";
