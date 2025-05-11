@@ -2,13 +2,11 @@ public class Teatro {
     private String nome;
     private String localizacao;
     private int capacidade;
-    private String descricao;
 
-    public Teatro(String nome, String localizacao, int capacidade, String descricao) {
+    public Teatro(String nome, String localizacao, int capacidade) {
         this.nome = nome;
         this.localizacao = localizacao;
         this.capacidade = capacidade;
-        this.descricao = descricao;
     }
 
     public String getNome() {
@@ -23,12 +21,20 @@ public class Teatro {
         return capacidade;
     }
 
-    public String getDescricao() {
-        return descricao;
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setLocalizacao(String localizacao) {
+        this.localizacao = localizacao;
+    }
+
+    public void setCapacidade(int capacidade) {
+        this.capacidade = capacidade;
     }
 
     @Override
     public String toString() {
-        return nome + " - " + localizacao + " (Capacidade: " + capacidade + ")";
+        return "Teatro: " + nome + ", Localização: " + localizacao + ", Capacidade: " + capacidade;
     }
 }
