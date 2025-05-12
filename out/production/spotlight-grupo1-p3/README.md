@@ -22,6 +22,7 @@ Este projeto vai ser desenvolvido utilizando:
 📜 [**Histórias**](https://docs.google.com/document/d/1PzrIdtrJERcJetYCJ_r6rDhxUMrsDcpiqiyTjrJwEcs/edit?usp=sharing)
 📸 [**Lo-fi's**](https://drive.google.com/file/d/1EMd6lf0au7WKsCR9rRodCiv2ksGIRFrV/view?usp=drive_link)
 📼 [**screencast**](https://youtu.be/3_AtGtOFGvI)
+📼[**screencast login e cadastro**](https://youtu.be/sf2zr7eD9bw)
 
 ## 👥 Colaboradores
 💡 **Eduardo Américo** - [@github](https://github.com/EduardoAmericoo)  
