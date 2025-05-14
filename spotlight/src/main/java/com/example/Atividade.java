@@ -1,3 +1,4 @@
+package main.java.com.example;
 import java.io.Serializable;
 
 public class Atividade implements Serializable {
