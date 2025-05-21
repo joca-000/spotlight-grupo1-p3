@@ -5,16 +5,30 @@ Bem-vindo ao **Spotlight**! Uma plataforma desenvolvida para facilitar a gestão
 ## 🚀 Sobre o Projeto
 O **Spotlight** visa simplificar o gerenciamento de teatros, permitindo que administradores organizem eventos, controlem reservas de espaços e acompanhem a programação de espetáculos de maneira intuitiva e eficiente.
 
+## 📌 Funcionalidades
+✔️ Cadastro de teatros e espaços disponíveis  
+✔️ Gerenciamento de eventos e espetáculos    
+✔️ Administração de elenco e produção 👥    
+✔️ Relatórios e estatísticas para otimização de gestão 📊   
+
 ## 🛠 Tecnologias Utilizadas
 Este projeto vai ser desenvolvido utilizando:
 - **Java ☕**
 - Persistencia : *Serialization*
 
-## 📌 Funcionalidades
-✔️ Cadastro de teatros e espaços disponíveis  
-✔️ Gerenciamento de eventos e espetáculos    
-✔️ Administração de elenco e produção 👥
-✔️ Relatórios e estatísticas para otimização de gestão 📊 
+## 🧩 Como Rodar
+A branch mais atualizada e que deve ser compilada é a main.
+
+### Localmente
+Importe o código para sua IDE de preferência (VSCode, Eclipse, IntelliJ) por meio de Git Bash ou GitHub Desktop.
+Certifique-se de ter instalado a linguagem de programação Java, seu compilador, e a extensão necessária, dependendo da IDE utilizada.
+Vá para o arquivo ```Main.java``` e clique em ▶️Run.
+
+### Online
+Existem IDEs de compilação de código de forma online, apesar de serem mais propensas a erros.
+Caso haja ferramentas de importação de código, importe esta brach por meio do link atual.
+Caso contrário, copie e cole, de forma manual, cada arquivo para o compilador.
+Vá para o arquivo ```Main.java``` e clique em ▶️Run.
 
 ## Entregas
 📜 [**Histórias**](https://docs.google.com/document/d/1PzrIdtrJERcJetYCJ_r6rDhxUMrsDcpiqiyTjrJwEcs/edit?usp=sharing)
