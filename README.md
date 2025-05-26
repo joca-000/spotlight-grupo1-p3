@@ -46,6 +46,7 @@ A branch mais atualizada e que deve ser compilada é a main.
 📼 [**Screencast - Protóripos Lo-Fi**](https://youtu.be/3_AtGtOFGvI)    
 📼 [**Screencast - Funcionalidades Login e cadastro**](https://youtu.be/sf2zr7eD9bw) 
 📼 [**Screencast - Spotlight Geral**](https://youtu.be/K255a6GslkA)
+📼 [**Screencast - Testes Automatizados**](https://youtu.be/ANxZbM7mHQs)
 📜 [**Diagrama de classes UML**](https://lucid.app/lucidchart/44b36d4f-4ee0-4e8d-9622-cd1fe7b8f858/edit?viewport_loc=-4101%2C-2353%2C18714%2C9122%2CHWEp-vi-RSFO&invitationId=inv_2318a3a3-fe3d-4494-ba46-00623d53f94f)    
 
 <br>
