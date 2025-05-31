@@ -55,7 +55,7 @@ A branch mais atualizada e que deve ser compilada é a main.
 
 📼 [**Screencast - Teste Integração**](https://youtu.be/W3fYyx_6Ub4)
 
-📜 [**Diagrama de classes UML**]
+📜 [**Diagrama de classes UML Atualizado**]
 
 ![image](https://github.com/user-attachments/assets/0b112580-70b7-4208-a397-0b1fe5ce229c)
 
