@@ -49,7 +49,7 @@ A branch mais atualizada e que deve ser compilada é a main.
 
 📼 [**Screencast - Funcionalidades Login e cadastro**](https://youtu.be/sf2zr7eD9bw) 
 
-📼 [**Screencast - Spotlight Geral**](https://youtu.be/K255a6GslkA)
+📼 [**Screencast - Spotlight Geral**](https://youtu.be/K255a6GslkA) // Todas historias implementadas
 
 📼 [**Screencast - Testes Automatizados**](https://youtu.be/ANxZbM7mHQs)
 
