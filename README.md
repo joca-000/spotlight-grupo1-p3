@@ -20,7 +20,7 @@ O **Spotlight** visa simplificar o gerenciamento de teatros, permitindo que admi
 ## 🛠 Tecnologias Utilizadas
 Este projeto vai ser desenvolvido utilizando:
 - **Java ☕**
-- Persistencia : *Serialization*
+- **Persistencia : Serializable**
 
 <br>
 
