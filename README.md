@@ -59,6 +59,9 @@ A branch mais atualizada e que deve ser compilada é a main.
 
 <br>
 
+## Issue/Bug tracker
+![image](https://github.com/user-attachments/assets/a42380eb-dfb9-460e-a062-c6b9d9e5d46a)
+
 ## 👥 Colaboradores
 💡 **Eduardo Américo** - [@github](https://github.com/EduardoAmericoo)  
 💡 **Fernanda Ramalho** - [@github](https://github.com/fernandaramalhob)  
