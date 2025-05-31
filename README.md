@@ -55,7 +55,9 @@ A branch mais atualizada e que deve ser compilada é a main.
 
 📼 [**Screencast - Teste Integração**](https://youtu.be/W3fYyx_6Ub4)
 
-📜 [**Diagrama de classes UML**](https://lucid.app/lucidchart/44b36d4f-4ee0-4e8d-9622-cd1fe7b8f858/edit?viewport_loc=-4101%2C-2353%2C18714%2C9122%2CHWEp-vi-RSFO&invitationId=inv_2318a3a3-fe3d-4494-ba46-00623d53f94f)    
+📜 [**Diagrama de classes UML**]
+
+![image](https://github.com/user-attachments/assets/0b112580-70b7-4208-a397-0b1fe5ce229c)
 
 <br>
 
